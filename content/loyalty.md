@@ -52,6 +52,8 @@ content_section_4: |-
 section_4_image: "/uploads/2019/02/18/Loyalty-Bday-Love.jpg"
 
 ---
-![](/uploads/2017/11/21/Tim's_Flaming_Rooster_best3_web.jpg)![](/uploads/2017/11/21/Piece_Tres_Leches.jpg)
+![](/uploads/2017/11/21/Tim's_Flaming_Rooster_best3_web.jpg)
 
- we![](/uploads/2017/12/18/Daytona_Now_Hiring_Sign_red_Nov_2017_revised.jpg)
+![](/uploads/2018/01/02/Daytona_Now_Hiring_Sign_red_Jan2018.jpg)![](/uploads/2017/11/21/Piece_Tres_Leches.jpg)
+
+we![](/uploads/2017/12/18/Daytona_Now_Hiring_Sign_red_Nov_2017_revised.jpg)
